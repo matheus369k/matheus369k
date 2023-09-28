@@ -2,8 +2,9 @@
 
  <div>
    <a href="https://github.com/matheus369k">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=matheus369k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&langs_count=6&theme=tokyonight"/>
+    
+   <img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=blue-green"/>
+   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&theme=blue-green"/>
 </div>
 
 ### Habilidades
