@@ -1,10 +1,10 @@
 ### Bem-vindo(a) ao perfil do Matheus Gomes 👾
 
- <div>
+ <div align="center">
    <a href="https://github.com/matheus369k">
     
-   <img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=blue-green"/>
-   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&theme=blue-green"/>
+   <img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
+   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&theme=tokyonight"/>
 </div>
 
 ### Habilidades
