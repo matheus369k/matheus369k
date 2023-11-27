@@ -1,7 +1,7 @@
 ### Bem-vindo(a)👋, perfil de Matheus Gomes🤖
 
 ### 📖Sobre min 
-* Sou um desenvolver Front-end junior, me chamo matheus e tenho 19 anos, gosto de games, filmes, series e animes. Meu unico robe e desenhar, sou uma pessoa muito curiosa em relação ao universo geek. No momemto não tenho esperiencias proficionais na área de desenvolvimento.*
+*Sou um desenvolver Front-end junior, me chamo matheus e tenho 19 anos, gosto de games, filmes, series e animes. Meu unico robe e desenhar, sou uma pessoa muito curiosa em relação ao universo geek. No momemto não tenho esperiencias proficionais na área de desenvolvimento.*
 
 <br>
 
