@@ -14,7 +14,7 @@
 <br>
 <br>
 
-### Habilidades   
+### 🦸‍♂️Habilidades   
 <br>
 <div align="center">
 <img align="center" alt="skills" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight">
@@ -32,7 +32,7 @@
 <br>
 <br>
  
-### Formas de contato abaixo!
+### 📧Formas de contato abaixo!
 <br>
  
 <div align="center">
