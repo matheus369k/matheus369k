@@ -1,25 +1,24 @@
 ### Bem-vindo(a)👋, perfil de Matheus Gomes🤖
 
-### 📖Sobre min 
+### 📖Sobre min
+
 *Sou um desenvolver Front-end junior, me chamo matheus e tenho 19 anos, gosto de games, filmes, series e animes. Meu unico robe e desenhar, sou uma pessoa muito curiosa em relação ao universo geek. No momemto não tenho esperiencias proficionais na área de desenvolvimento.*
 
-<br>
-
- <div align="center">
-   <a href="https://github.com/matheus369k">
-    
-   <img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
+<div style="display: inline_block">
+ 
+  <img align="center" alt="views" height="30" src="https://img.shields.io/github/watchers/matheus369k/matheus369k.svg">
+  <img align="center" alt="follow" height="30" src="https://img.shields.io/github/followers/matheus369k.svg?style=social&label=Follow&maxAge=2592000">
+ 
 </div>
 
-<br>
-<br>
+<br/>
+<img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
 
-### 🦸‍♂️Habilidades   
-<br>
-<div align="center">
-<img align="center" alt="skills" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight">
 
-<div style="display: inline_block"><br>
+### Habilidades   
+
+
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -28,15 +27,13 @@
  <img align="center" alt="Sass" height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">	
  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">		
 </div>
-</div>
+<br/>
+<br/>
+<img align="center" alt="skills" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight">
 
-<br>
-<br>
+### Redes
  
-### 📧Formas de contato abaixo!
-<br>
- 
-<div align="center">
+<div>
   <a href="https://instagram.com/matheus543890" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/ghome/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus.360kbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
