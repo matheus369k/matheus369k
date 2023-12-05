@@ -6,7 +6,6 @@
 
 <div style="display: inline_block">
  
-  <img align="center" alt="views" height="30" src="https://img.shields.io/github/watchers/matheus369k/matheus369k.svg">
   <img align="center" alt="follow" height="30" src="https://img.shields.io/github/followers/matheus369k.svg?style=social&label=Follow&maxAge=2592000">
  
 </div>
