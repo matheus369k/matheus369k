@@ -4,12 +4,6 @@
 
 *Sou um desenvolver Front-end junior, me chamo matheus e tenho 19 anos, gosto de games, filmes, series e animes. Meu unico robe e desenhar, sou uma pessoa muito curiosa em relação ao universo geek. No momemto não tenho esperiencias proficionais na área de desenvolvimento.*
 
-<div style="display: inline_block">
- 
-  <img align="center" alt="follow" height="30" src="https://img.shields.io/github/followers/matheus369k.svg?style=social&label=Follow&maxAge=2592000">
- 
-</div>
-
 <br/>
 <img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
 
