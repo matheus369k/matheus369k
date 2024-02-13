@@ -1,16 +1,8 @@
 ### Bem-vindo(a)👋, perfil de Matheus Gomes🤖
-
-### 📖Sobre min
-
+### 📖About Me
 *Sou um desenvolver Front-end junior, me chamo matheus e tenho 19 anos, gosto de games, filmes, series e animes. Meu unico robe e desenhar, sou uma pessoa muito curiosa em relação ao universo geek. No momemto não tenho esperiencias proficionais na área de desenvolvimento.*
-
 <br/>
-<img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
-
-
-### Habilidades   
-
-
+### handskills
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,10 +14,11 @@
 </div>
 <br/>
 <br/>
+### GitHub Status
 <img align="center" alt="skills" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight">
-
-### Redes
- 
+<br/>
+<img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
+### Networks
 <div>
   <a href="https://instagram.com/matheus543890" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/ghome/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
