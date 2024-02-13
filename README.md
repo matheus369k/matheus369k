@@ -11,13 +11,16 @@
  <img align="center" alt="Sass" height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">	
  <img align="center" alt="Sass" height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">	
  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">		
+ <img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">		
 </div>
 <br/>
 <br/>
+
 ### GitHub Status
 <img align="center" alt="skills" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight">
 <br/>
 <img height="250" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"/>
+
 ### Networks
 <div>
   <a href="https://instagram.com/matheus543890" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
