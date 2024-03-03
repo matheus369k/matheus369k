@@ -1,4 +1,9 @@
 ### Bem-vindo(a)👋, perfil de Matheus Gomes🤖
+
+<br/>
+<img style="margin: 0 auto" width="100%" src="https://github.com/matheus369k/matheus369k/assets/47065962/10db197c-ce00-446b-a7d7-c6f0fb83f1a4" alt="profil-img-apresentation" />
+<br/>
+
 ### 📖About Me
 *Sou um desenvolver Front-end junior, me chamo matheus e tenho 19 anos, gosto de games, filmes, series e animes. Meu unico robe e desenhar, sou uma pessoa muito curiosa em relação ao universo geek. No momemto não tenho esperiencias proficionais na área de desenvolvimento.*
 <br/>
