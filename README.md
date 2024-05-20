@@ -18,7 +18,7 @@
   
 <br>
 
-## Ferramentas
+## Tools
 
 <div>
   <img
