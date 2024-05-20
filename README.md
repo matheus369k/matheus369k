@@ -128,7 +128,7 @@
     >
   </a>
   <a
-    href="emailto:matheus.360kbr@gmail.com"
+    href="mailto:matheus.360kbr@gmail.com"
     target="_blank"
   >
     <img
