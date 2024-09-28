@@ -1,22 +1,47 @@
-# Hi👋, I'm Matheus Gomes
-<p
-  align="left"
->
+<h1 align='center'>Hi👋, I'm Matheus Gomes</h1>
+<div align="center">
+  <a
+    href="https://discordapp.com/users/ghome/"
+    target="_blank"
+  >
+    <img
+      height="25"
+      src="https://img.shields.io/badge/Discord-020617?style=for-the-badge&logo=discord&logoColor=white"
+    >
+  </a>
+  <a
+    href="mailto:matheus.360kbr@gmail.com"
+    target="_blank"
+  >
+    <img
+      height="25"
+      src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=white"
+    >
+  </a>
+  <a
+    href="https://www.linkedin.com/in/matheus-melo-6824a7274/"
+    target="_blank"
+  >
+    <img
+      height="25"
+      src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white"
+    >
+  </a>
+</div>
+<div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=matheus369k&color=blue"
     alt="Profile views"
   />
-</p>
+</div>
 
 ## About me
 
 - 🔥 Front End Web Developer.
 
-- 💡 I am currently studying, __Jest__, __Next.js__, __Node.js__.
+- 💡 I have been studying on my own since May 2023.
 
 - ➕ more at https://matheus369k.github.io/my-portfolio/
-  
-<br>
 
 ## Tools
 
@@ -95,54 +120,13 @@
 
 <div align="center">
   <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight"
-  >
-  <img
     height="250"
     src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"
   >
 </div>
-
-<br>
-
-## Contact
-
-<div>
-  <a
-    href="https://instagram.com/matheus543890"
-    target="_blank"
+<div align="center">
+<img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight"
   >
-    <img
-      height="25"
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    >
-  </a>
-  <a
-    href="https://discordapp.com/users/ghome/"
-    target="_blank"
-  >
-    <img
-      height="25"
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-    >
-  </a>
-  <a
-    href="mailto:matheus.360kbr@gmail.com"
-    target="_blank"
-  >
-    <img
-      height="25"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    >
-  </a>
-  <a
-    href="https://www.linkedin.com/in/matheus-melo-6824a7274/"
-    target="_blank"
-  >
-    <img
-      height="25"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    >
-  </a>
 </div>
