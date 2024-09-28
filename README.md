@@ -47,70 +47,84 @@
 
 <div>
   <img
-    width="60"
-    heigth="60"
-    src="./.github/html-5-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
     alt="HTML5"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/css-3-svgrepo-com.svg"
+    height="30"
+    src="  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
     alt="CSS3"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/javascript-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
     alt="Javascript"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/git-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
     alt="Git"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/typescript-official-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     alt="TypeScript"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/react-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/redux-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     alt="Redux"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/tailwindcss-icon-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
     alt="Tailwind"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/sass-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
     alt="Sass"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/jest-snapshot-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"
     alt="Jest"
   >
   <img
-    width="60"
-    heigth="60"
-    src="./.github/jquery-svgrepo-com.svg"
+    height="30"
+    src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"
+    alt="testing library"
+  >
+  <img
+    height="30"
+    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
     alt="Jquery"
+  >
+  <img
+    height="30"
+    src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge"
+    alt="Fastify"
+  >
+  <img
+    height="30"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    alt="Nodejs"
+  >
+  <img
+    height="30"
+    src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+    alt="Express"
+  >
+  <img
+    height="30"
+    src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge"
+    alt="Next.js"
   >
 </div>
 
