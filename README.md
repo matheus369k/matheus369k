@@ -126,6 +126,11 @@
     src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge"
     alt="Next.js"
   >
+  <img
+    height="30"
+    src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+    alt="Next.js"
+  >
 </div>
 
 <br>
