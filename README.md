@@ -41,7 +41,7 @@
 
 - 💡 I have been studying on my own since May 2023.
 
-- ➕ more at https://matheus369k.github.io/my-portfolio/
+- ➕ more at https://my-portfolio-ten-smoky-67.vercel.app/
 
 ## Tools
 
