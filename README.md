@@ -1,7 +1,7 @@
 <h1 align='center'>Hi👋, I'm Matheus Melo</h1>
 <div align="center">
   <a
-    href="https://my-portfolio-ten-smoky-67.vercel.app/"
+    href="https://mg-developer-portfolio.vercel.app/"
     target="_blank"
   >
     <img
@@ -42,7 +42,7 @@
 
 - 💡 I have been studying on my own since May 2023.
 
-- ➕ more at https://my-portfolio-ten-smoky-67.vercel.app/
+- ➕ more at https://mg-developer-portfolio.vercel.app/
 
 <br>
 
