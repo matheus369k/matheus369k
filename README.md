@@ -6,7 +6,7 @@
   >
     <img
       height="25"
-      src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"
+      src="https://img.shields.io/badge/Portfolio-020617.svg?style=for-the-badge&logo=firefox&logoColor=white"
     >
   </a>
   <a
