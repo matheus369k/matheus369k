@@ -43,13 +43,3 @@
 - 💡 I have been studying on my own since May 2023.
 
 - ➕ more at https://mg-developer-portfolio.vercel.app/
-
-<br>
-
-## GitHub Status
-
-<div>
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=matheus369k&theme=tokyonight"
-  /> <img width="43.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus369k&layout=compact&theme=tokyonight"
-  />
-</div>
